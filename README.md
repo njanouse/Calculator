@@ -1,2 +1,2 @@
 # Calculator
-sample repository
+cse360assign2
